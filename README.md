@@ -1,2 +1,1 @@
 # ModelCardGenerator
-# ModelCardGenerator
